@@ -1,2 +1,4 @@
-# ud120
-Introduction to Machine Learning (Udacity)
+ud120-projects
+==============
+
+Projects code for ud120 course: ***Introduction to Machine Learning***
